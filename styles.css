@@ -1,0 +1,29 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    background: #091921;
+    color: aqua;
+    
+}
+#clock{
+    color:rgb(2, 255, 44);
+   position: absolute;
+   display: block;
+  
+   text-align: center;
+   margin: 10px 0px;
+   font-weight: 700;
+   text-transform: uppercase;
+   letter-spacing: 0.4em;
+   font-size: 1em;
+}
+.h3{
+    color: red;
+}
